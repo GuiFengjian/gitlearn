@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'丁税宝使用手册'
+project = u'房产税使用手册'
 copyright = u'2016, Fugle Technology'
 author = u'Fugle Technology'
 
@@ -237,7 +237,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'dingshuibaocaozuodoc'
+htmlhelp_basename = 'fangchanshuicaozuodoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -263,7 +263,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'dingshuibaocaozuo.tex', u'dingshuibaocaozuo Documentation',
+    (master_doc, 'fangchanshuicaozuo.tex', u'fangchanshuicaozuo Documentation',
      u'fugle technology', 'manual'),
 ]
 
@@ -305,7 +305,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'dingshuibaocaozuo', u'dingshuibaocaozuo Documentation',
+    (master_doc, 'fangchanshuicaozuo', u'fangchanshuicaozuo Documentation',
      [author], 1)
 ]
 
@@ -320,8 +320,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'dingshuibaocaozuo', u'dingshuibaocaozuo Documentation',
-     author, 'dingshuibaocaozuo', 'One line description of project.',
+    (master_doc, 'fangchanshuicaozuo', u'fangchanshuicaozuo Documentation',
+     author, 'fangchanshuicaozuo', 'One line description of project.',
      'Miscellaneous'),
 ]
 
